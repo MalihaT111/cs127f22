@@ -1,0 +1,11 @@
+#Maliha Tasnim
+#MALIHA.TASNIM64@myhunter.cuny.edu
+#Date: October 24, 2022
+#Shell script:  creates directories for project
+mkdir cs127
+cd cs127
+mkdir quizzes
+mkdir assignments 
+cd quizzes
+mkdir quiz1
+mkdir quiz2

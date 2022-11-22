@@ -1,0 +1,13 @@
+#Maliha Tasnim
+#MALIHA.TASNIM64@myhunter.cuny.edu
+#Date: November 14, 20222
+#directory stuff
+git clone https://github.com/HunterCSci127/CSci127
+cd CSci127
+mkdir projects
+mv averageImage.py projects
+cd CSci127
+mkdir pictures
+cd Csci127 
+mv *.png pictures
+ls | grep .py -c

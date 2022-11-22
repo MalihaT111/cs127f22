@@ -1,0 +1,11 @@
+#Maliha Tasnim
+#MALIHA.TASNIM64@myhunter.cuny.edu
+#Date: November 14, 20222
+#register $s0 increase from 0 to 100, increase by 10 each time.
+ADDI $s0, $zero, 0
+ADDI $s1, $zero, 10
+ADDI $s2, $zero, 100
+AGAIN: ADD $s0, $s0, $s1
+BEQ $s0, $s2, DONE
+J AGAIN
+DONE:
