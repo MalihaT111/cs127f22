@@ -1,0 +1,5 @@
+#Maliha Tasnim
+#MALIHA.TASNIM64@myhunter.cuny.edu
+#Date: September 19, 2022
+#This program does stuff
+out =not  (in1 and in2) or in3

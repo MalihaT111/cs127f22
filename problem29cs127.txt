@@ -1,0 +1,7 @@
+#Maliha Tasnim
+#MALIHA.TASNIM64@myhunter.cuny.edu
+#Date: October 6, 2022
+#This program does stuff
+#!/bin/bash
+echo "Hello!"
+echo "Greeting from $USER"
